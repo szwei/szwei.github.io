@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 算法入门
-titlebar: leetcode
+titlebar: LeetCode
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; 刷题
-menu: leetcode
+menu: LeetCode
 css: ['blog-page.css']
-permalink: /leetcode
+permalink: /LeetCode
 ---
 
 <div class="row">
