@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: szwei/szwei.github.io
 github_url: https://github.com/szwei
-url: http://blog.sunzhaowei.top
-enforce_ssl: blog.sunzhaowei.top
+url: http://sunzhaowei.top
+enforce_ssl: sunzhaowei.top
 
 ## Gem
 plugins:
